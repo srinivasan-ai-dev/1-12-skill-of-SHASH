@@ -1,5 +1,5 @@
 requests
 beautifulsoup4
 twilio
-google-generativeai
+google-genai
 python-dotenv
