@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.log
+scratch/
+.gemini/
+.vscode/
+venv/
+node_modules/
